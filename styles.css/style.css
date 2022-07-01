@@ -1,0 +1,12 @@
+p::selection {
+    background: rgb(197, 5, 255);
+    color: rgb(197, 5, 255);
+    text-shadow: rgb(197, 5, 255);
+}
+
+/* Firefox */
+p::-moz-selection {
+    background: rgb(197, 5, 255);
+    color: rgb(197, 5, 255);
+    text-shadow: rgb(197, 5, 255);
+}
